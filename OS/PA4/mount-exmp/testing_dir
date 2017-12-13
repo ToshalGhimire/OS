@@ -1,0 +1,7 @@
+Wrote in mirror: did the original change?
+
+Answer: YES! line 1 was written in the mounted directory; line 3 was written in original directory.
+
+checking back at the mirror, it looks like it changed aswell. 
+
+Conclusion: anything i changed from inside both directories, reflects on the other directory as well
